@@ -1,0 +1,50 @@
+@charset "UTF-8";
+@import "reset.css";
+
+/* tiles_layout */
+@import "footer.css";
+@import "header.css";
+
+
+
+.warp {
+	width: 100%;
+	height: 100%;
+}
+
+.header-wrap{
+	width: 100%;
+	background-color: tan;
+}
+
+.header{
+	position: relative;
+	width: 1200px;
+	margin: 0 auto;
+	background-color: tomato;
+}
+
+.content-wrap{
+	width: 100%;
+	background-color: aquamarine;
+}
+
+.content{
+	position: relative;
+	width: 1200px;
+	margin: 0 auto;
+	background-color: tan;
+}
+
+.footer-warp{
+	width: 100%;
+	background-color: tomato;
+}
+
+.footer{
+	position: relative;
+	width: 1200px;
+	margin: 0 auto;
+	background-color: aquamarine;
+}
+
